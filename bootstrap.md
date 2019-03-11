@@ -10,6 +10,7 @@
 学号|姓名|分数
 :-|:-:|-:
 01|dd|90
+02|hh|91
 ``` javascript 
 windows.alert("hello");
 ```
@@ -37,8 +38,3 @@ public class Demo{
 
 [start] {#index}
 
-```sequence
-Alice_>Bob:Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob__>Alice: Ian good thanks!
-```
